@@ -1,4 +1,4 @@
-![psd_3d_render_rocket_ioslated_on_background](https://github.com/user-attachments/assets/f5299c50-a1bc-4310-a81e-0bc024c7f1e3)![psd_3d_render_rocket_ioslated_on_background](https://github.com/user-attachments/assets/f989a082-19ab-4f2c-9930-ec3ec7d0d107)# Data Warehouse and Analytics Project
+# Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Projects** repository! 
 This project deomstrates a comprehensive data warehousing and anlaytics solution, from building a data warehouse to generrating actionable insights. Designed as a porfolio project highlights industry best practices in data engineering and analytics.
